@@ -151,13 +151,3 @@ npm run dev
 
 ---
 
-## 10. Key Points for Hackathon / Viva Presentations
-
-| What to SAY | What NOT to say |
-| :--- | :--- |
-| **"AI and OCR extract and structure information from the label."** | ❌ *"AI checks the law."* |
-| **"A rule-based engine performs legal compliance verification based on statutory rules."** | ❌ *"The neural network decides if a product is illegal."* |
-| **"Uncertain or blurred packages trigger REVIEW for human verification."** | ❌ *"The AI has 100% accuracy and replaces inspectors."* |
-| **"SHA-256 and blockchain make inspection records tamper-evident."** | ❌ *"Blockchain detects fake products."* |
-| **"Database stores detailed records; blockchain stores cryptographic proof hashes."** | ❌ *"Blockchain replaces our database."* |
-| **"Overpricing detection compares printed MRP with inspector-entered shop prices."** | ❌ *"An image alone can detect overcharging."* |
